@@ -32,6 +32,22 @@
 - **🔌 Multi-Dialect Support**: Seamlessly connects to **MySQL, PostgreSQL, and Oracle** databases using an intelligent connection string parser.
 - **🔒 Production-Grade Security**: Features audit logging, robust rate limiting, SQL AST validation (via `sqlglot`) to prevent destructive queries, and comprehensive security middleware.
 
+## 📸 UI Showcase
+
+### Agentic CSV Database Engine
+![CSV Database List](https://via.placeholder.com/800x400/1a1a1a/8a2be2?text=Drag+and+Drop+CSV+List+Screenshot+Here)
+*Easily manage multiple isolated SQLite databases generated from your CSV files.*
+
+![Live Query Editor](https://via.placeholder.com/800x400/1a1a1a/8a2be2?text=Drag+and+Drop+CSV+Query+Screenshot+Here)
+*Write and execute SQL instantly with live schema preview and results.*
+
+### Database Tutor & Schema Analysis
+![Database Tutor](https://via.placeholder.com/800x400/1a1a1a/8a2be2?text=Drag+and+Drop+Database+Tutor+Screenshot+Here)
+*Learn advanced concepts like JOINs through interactive, contextual examples.*
+
+![Schema Analysis](https://via.placeholder.com/800x400/1a1a1a/8a2be2?text=Drag+and+Drop+Schema+Analysis+Screenshot+Here)
+*AI-driven recommendations for indexing, isolated tables, and query optimization.*
+
 ## 🏗️ Architecture
 
 ```mermaid
